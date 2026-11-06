@@ -110,7 +110,7 @@ flowchart LR
 |---|---|---|
 | 🔌 [**CollabConnect**](https://github.com/venkatachandu1011/CollabConnect) | 40+ API scenarios: authentication, search, CRUD, negative cases, SQL data checks | Java, Postman, PostgreSQL |
 | 🛒 **E-Commerce Web App** | 60+ test cases with RTM, 15+ automated regression scenarios, 20+ defects tracked in Jira | Selenium, TestNG, Maven |
-| 🌐 [**QA Portfolio Website**](https://venkatachandu1011.github.io/Venkata_Chandu/) | Responsive site with dark/light theme, hosted on GitHub Pages | HTML, CSS, JS |
+| 🌐 [**QA Portfolio Website**](https://venkatachandu1011.github.io/VenkataChandu_Portfolio/) | Responsive site with dark/light theme, hosted on GitHub Pages | HTML, CSS, JS |
 
 ---
 
@@ -134,6 +134,6 @@ flowchart LR
 
 💡 Open to **Software Test Engineer / QA Engineer** roles, internships and chats with fellow testers about **automation, API testing and quality**.
 
-📩 [venkata111chandu@gmail.com](mailto:venkata111chandu@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/venkata-chandu-ba3686253/) · 🌐 [Portfolio](https://venkatachandu1011.github.io/Venkata_Chandu/)
+📩 [venkata111chandu@gmail.com](mailto:venkata111chandu@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/venkata-chandu-ba3686253/) · 🌐 [Portfolio](https://venkatachandu1011.github.io/VenkataChandu_Portfolio/)
 
 <p align="center"><i>"Quality is not an act, it is a habit."</i></p>
